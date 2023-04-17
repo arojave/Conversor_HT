@@ -1,19 +1,19 @@
 # Conversor_HT
 Conversor de Divisas | Alura
 
-<h4 align="center">
-:construction: Proyecto en construcción :construction:
-</h4>
+<p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   </p>
 
 
 Este proyecto propuesto en la academia ALURA, el cual es un conversor de divisas creado en Java que convierte de pesos colombianos a diferentes monedas extranjeras. La aplicación cuenta con una interfaz gráfica de usuario que permite seleccionar el tipo de conversión que se desea realizar.
 
 <h2>Funcionalidades</h2>
 
-Convierte de pesos colombianos a dólares estadounidenses.
-Convierte de pesos colombianos a euros.
-Convierte de pesos colombianos a libras esterlinas.
-Permite la conversión inversa de la moneda.
+- Convierte de pesos colombianos a dólares estadounidenses.
+- Convierte de pesos colombianos a euros.
+- Convierte de pesos colombianos a libras esterlinas.
+- Permite la conversión inversa de la moneda.
 
 <h2>Uso</h2>
 
